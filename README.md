@@ -2,6 +2,8 @@
 
 ## Welcome to my profile! My name is Muxan, I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz)
 
+[![Instagram Badge](https://img.shields.io/badge/-said__xikmatxojayev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://www.instagram.com/__muxan_/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

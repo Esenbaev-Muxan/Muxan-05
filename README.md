@@ -14,4 +14,4 @@
 
 <h2> 🚀💻 Languages and Tools:</h2>
 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://avatars.githubusercontent.com/u/4223)" alt="react" width="25" height="25" />
+<img src="https://avatars.githubusercontent.com/u/4223" alt="react" width="25" height="25" />

@@ -16,6 +16,6 @@
 <p align="left">
 <img src="https://avatars.githubusercontent.com/u/4223" alt="react" width="25" height="25" />
 <img src="https://149664611.v2.pressablecdn.com/wp-content/uploads/2020/09/image-1.png" alt="react" width="25" height="25" />
-<img src="https://devrating.org/img/cms/nodejs.png" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
  
 </p>

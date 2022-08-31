@@ -16,4 +16,5 @@
 <p align="left">
 <img src="https://avatars.githubusercontent.com/u/4223" alt="react" width="25" height="25" />
 <img src="https://149664611.v2.pressablecdn.com/wp-content/uploads/2020/09/image-1.png" alt="react" width="25" height="25" />
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 </p>

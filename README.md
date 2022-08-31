@@ -1,6 +1,6 @@
 # Fancy seeing you here! 👋
 
-** Welcome to my profile! My name is Muxan, I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz)
+**Welcome to my profile! My name is Muxan, I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz)
 
 Here are some ideas to get you started:
 

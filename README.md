@@ -12,4 +12,4 @@
   <li> Most of my projects are available on <a href="https://github.com/Muxan-05">Github</a>.</li>
 </ul>
 
-<h2> Languages and Tools:</h2>
+<h2> 🚀💻 Languages and Tools:</h2>

@@ -15,3 +15,4 @@
 <h2> 🚀💻 Languages and Tools:</h2>
 
 <img src="https://avatars.githubusercontent.com/u/4223" alt="react" width="25" height="25" />
+<img src="https://149664611.v2.pressablecdn.com/wp-content/uploads/2020/09/image-1.png" alt="react" width="25" height="25" />

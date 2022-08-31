@@ -1,7 +1,6 @@
 # Fancy seeing you here! 👋
 
-<--
-**Muxan-05/Muxan-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Welcome to my profile! My name is Muxan, I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz)
 
 Here are some ideas to get you started:
 

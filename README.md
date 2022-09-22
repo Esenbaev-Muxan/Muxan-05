@@ -4,7 +4,7 @@
 
 ## Welcome to my profile! My name is Muxan, I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz)
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
 
 [![Instagram Badge](https://img.shields.io/badge/-Muxan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://www.instagram.com/__muxan_/)
 [![Gmail Badge](https://img.shields.io/badge/-esenbaevmuxan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:esenbaevmuxan@gmail.com)

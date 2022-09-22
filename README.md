@@ -26,7 +26,7 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="kubernetes" width="55" height="55"/>
-      <img src="" alt="eastic" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png" alt="eastic" width="55" height="55"/>
       <img src="" alt="azure" width="55" height="55"/>
       <img src="" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>

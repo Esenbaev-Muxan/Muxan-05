@@ -25,7 +25,7 @@
       <img src="" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="[https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby-thumbnail.png](https://pr201.ru/_nuxt/img/rails-logo.259a810.png)" alt="kubernetes" width="55" height="55"/>
+      <img src="[[https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby-thumbnail.png](https://pr201.ru/_nuxt/img/rails-logo.259a810.png)](https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png)" alt="kubernetes" width="55" height="55"/>
       <img src="" alt="eastic" width="55" height="55"/>
       <img src="" alt="azure" width="55" height="55"/>
       <img src="" alt="docker" width="60" height="50"/>

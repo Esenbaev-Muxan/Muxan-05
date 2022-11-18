@@ -29,16 +29,12 @@
       <img src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png" alt="eastic" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+       <img src="https://w7.pngwing.com/pngs/21/535/png-transparent-php-computer-icons-wordpress-text-trademark-logo-thumbnail.png" alt="mongodb" width="45" height="55"/>
+
 </p>
 </p>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
-</p>
 
 
-<h3 align="left">GitHub Status</h3>
-<br>
-<br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
